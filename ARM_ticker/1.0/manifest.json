@@ -1,0 +1,17 @@
+{
+   "name": "ARM_ticker",
+   "description": "ARM ticker",
+   "version": "1.0",
+   "action": {
+      "default_icon": "arm-logo.png",
+      "default_title": "(no data)"
+   },
+   "background": {
+      "service_worker": "ticker-update-wrapper.js"
+   },
+   "default_locale": "en",
+   "manifest_version": 3,
+   "minimum_chrome_version": "93",
+   "permissions": ["alarms", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx"
+}

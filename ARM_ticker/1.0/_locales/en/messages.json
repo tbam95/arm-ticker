@@ -1,0 +1,14 @@
+{
+   "appDesc": {
+      "description": "The description of the application",
+      "message": "Shows ARM stock price provided by AlphaVantage in a browser toolbar."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "ARM price ticker"
+   },
+   "tooltip_price_title": {
+      "description": "The first string in tooltip",
+      "message": "ARM price (AlphaVantage API)"
+   }
+}
