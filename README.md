@@ -10,6 +10,7 @@ Features:
 Limitations:
 
 - Free API calls are limited to 100 per day, meaning the price can be updated maximum every 15mins.
+- Although the extension is written to grab the live price every 15mins, the free version of the API is currently only allowing data from the previous trading day
 
 How to install:
 
